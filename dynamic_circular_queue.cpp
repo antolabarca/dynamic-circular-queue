@@ -1,4 +1,11 @@
-// C or C++ program for insertion and deletion in Dynamic Circular Queue
+/*
+Based on the Circular Queue implementation on Geeks for Geeks by Akash Gupta
+
+found here:
+https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/
+*/
+
+/* C or C++ program for insertion and deletion in Dynamic Circular Queue */
 #include<iostream>
 using namespace std;
  
